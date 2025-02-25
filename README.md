@@ -8,7 +8,7 @@ At the moment, I'm studying JAVA ☕ and it's popular frameworks, like Spring, M
 
 Born in Japan, living in Brazil and a whole to explore ! Let's exchange experiences !
 
-if you want, you can checkout my personal github:
+if you want, you can check my personal github:
 https://github.com/Twistywasabi 
 
 ## 📩 Contact me
