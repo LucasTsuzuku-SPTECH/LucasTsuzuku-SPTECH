@@ -8,6 +8,8 @@ At the moment, I'm studying JAVA ☕ and it's popular frameworks, like Spring, M
 
 Born in Japan, living in Brazil and a whole to explore ! Let's exchange experiences !
 
+Link for my personal Github: https://github.com/Twistywasabi
+
 ## 📩 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hideaki-tsuzuku-m1cr0/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lucas-hideaki@hotmail.com)
