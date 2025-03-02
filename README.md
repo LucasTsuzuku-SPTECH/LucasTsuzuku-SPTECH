@@ -8,9 +8,6 @@ At the moment, I'm studying JAVA ☕ and it's popular frameworks, like Spring, M
 
 Born in Japan, living in Brazil and a whole to explore ! Let's exchange experiences !
 
-if you want, you can check my personal github:
-https://github.com/Twistywasabi 
-
 ## 📩 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hideaki-tsuzuku-m1cr0/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lucas-hideaki@hotmail.com)
@@ -41,6 +38,7 @@ IT Technician | H2 informática|2 years and 10 months | Remote or in-person tech
 ## 📤 Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Twistywasabi&repo=Decodificador_texto_alura_ONE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Twistywasabi/Decodificador_texto_alura_ONE)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Twistywasabi&repo=alura_Challenge_Forum_Hub&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Twistywasabi/alura_Challenge_Forum_Hub)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Twistywasabi&repo=projetoCalculadoraInvestimentos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Twistywasabi/projetoCalculadoraInvestimentos)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Twistywasabi&repo=santander-dev-week-2024&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Twistywasabi/santander-dev-week-2024)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Twistywasabi&repo=alura_JAVA_CurrencyTranslation&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Twistywasabi/alura_JAVA_CurrencyTranslation)
