@@ -35,7 +35,7 @@ Link for my personal Github: https://github.com/Twistywasabi
 |-------|---------|-----------------------|-------|
 IT Technician | H2 informática|2 years and 10 months | Remote or in-person technical support |
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Twistywasabi&bg_color=023047&border_color=FB8500&show_icons=true&icon_color=219EBC&title_color=FFB703&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasTsuzuku-SPTECH&bg_color=023047&border_color=FB8500&show_icons=true&icon_color=219EBC&title_color=FFB703&text_color=FFF)
 
 ## 📤 Projects
 
